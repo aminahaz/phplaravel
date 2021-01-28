@@ -6,5 +6,5 @@ php artisan serve = run code
 php artisan make:controller Authcontroller = 
 php artisan migrate:rollback = stapje terugdraaien
 php artisan migrate = maakt aantal
-
+php artisan make:controller WorksController --resource = controller meegeven en naam geven. (laat alle portfolios zien)
 npm run dev =
